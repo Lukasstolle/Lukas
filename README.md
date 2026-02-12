@@ -26,4 +26,5 @@ Estudante de Programação Buscando evoluir em desenvolvimento de software C | l
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukas&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukaslayout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas&layout=compact&theme=tokyonight)
+
