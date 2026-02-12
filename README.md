@@ -25,8 +25,11 @@ Estudante de Programação Buscando evoluir em desenvolvimento de software C | l
 ##  Estatísticas
 
 
+## 📊 Estatísticas
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukasstolle&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasstolle&layout=compact&theme=tokyonight)
+
 
 
